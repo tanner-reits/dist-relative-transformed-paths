@@ -1,5 +1,6 @@
 import { Component, Prop, h } from '@stencil/core';
 import { format } from '../../utils/utils';
+import '@ionic/core';
 
 @Component({
   tag: 'my-component',
